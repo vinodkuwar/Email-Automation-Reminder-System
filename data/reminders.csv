@@ -1,0 +1,7 @@
+﻿reminder_id,contact_id,reminder_type,subject,message,scheduled_datetime,status
+REM-001,CNT-001,Meeting,Sprint Review & Architecture Sync,"Hi Alice, this is a reminder for our quarterly sprint review scheduled for today. Please bring your slides.",2026-11-20 10:00:00,SIMULATED
+REM-002,CNT-002,Payment,Q4 Cloud Infrastructure Invoice Due,"Dear Brian, this is a notification that the AWS compute invoice #INV-8821 is due for approval and processing.",2026-11-20 11:30:00,SIMULATED
+REM-003,CNT-003,Webinar,Keynote: Modern Data Pipelines and AI,"Hello Catherine, you are registered for today's keynote session starting shortly. The access link is ready in your portal.",2026-11-20 14:00:00,SIMULATED
+REM-004,CNT-004,Task deadline,Submit Fleet Logistics Audit Report,"Hi David, please ensure the weekly dispatch audit numbers are submitted before the close of business.",2026-11-21 09:00:00,PENDING
+REM-005,CNT-005,Follow-up,Client Feedback Review on UI Redesign,"Hello Elena, following up on our discussion regarding user feedback for the dashboard layout refresh.",2026-11-21 15:00:00,PENDING
+REM-006,CNT-006,Meeting,Annual HR Benefits Open Enrollment,"Hi Frank, reminder to host the benefits overview call with new hires tomorrow morning.",2026-11-22 10:00:00,PENDING

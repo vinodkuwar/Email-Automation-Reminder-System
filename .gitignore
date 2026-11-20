@@ -1,0 +1,31 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Sensitive Environment Variables & Credentials
+.env
+*.key
+*.pem
+
+# Outputs and Logs (Keep structure with .gitkeep if needed)
+outputs/*.csv
+outputs/*.txt
+logs/*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

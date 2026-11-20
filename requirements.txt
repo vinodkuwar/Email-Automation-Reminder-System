@@ -1,0 +1,7 @@
+﻿# Core Dependencies
+pandas>=2.0.0
+schedule>=1.2.0
+python-dotenv>=1.0.0
+
+# Optional Web Dashboard
+streamlit>=1.30.0
