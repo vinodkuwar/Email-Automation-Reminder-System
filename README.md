@@ -490,3 +490,22 @@ To publish this project to your GitHub account:
 ## ⚖️ License
 
 Distributed under the **MIT License**. See `LICENSE` for details.
+## 📸 Project Screenshots
+
+### 1. Dashboard Overview
+![Dashboard Overview](images/pic%201.png)
+
+### 2. Contacts Management
+![Contacts Management](images/pic%202.png)
+
+### 3. Reminders Management
+![Reminders Management](images/pic%203.png)
+
+### 4. Live Email Preview
+![Live Email Preview](images/pic%204.png)
+
+### 5. Reminder Processing
+![Reminder Processing](images/pic%205.png)
+
+### 6. Reports & Execution Results
+![Reports & Execution Results](images/pic%206.png)
