@@ -1,0 +1,10 @@
+﻿reminder_id,contact_id,recipient,subject,scheduled_datetime,execution_datetime,mode,status,error_message
+REM-DUE,CNT-101,john.pilot@example.com,Urgent Sync,2026-11-20 17:30:56,2026-11-20 17:40:56,dry_run,SIMULATED,
+REM-DUE,CNT-101,john.pilot@example.com,Urgent Sync,2026-11-20 17:31:15,2026-11-20 17:41:17,dry_run,SIMULATED,
+REM-001,CNT-001,alice.morgan@example.com,Sprint Review & Architecture Sync,2026-11-20 10:00:00,2026-11-20 17:42:36,dry_run,SIMULATED,
+REM-002,CNT-002,brian.patel@example.com,Q4 Cloud Infrastructure Invoice Due,2026-11-20 11:30:00,2026-11-20 17:42:36,dry_run,SIMULATED,
+REM-003,CNT-003,catherine.zhao@example.com,Keynote: Modern Data Pipelines and AI,2026-11-20 14:00:00,2026-11-20 17:42:37,dry_run,SIMULATED,
+REM-DUE,CNT-101,john.pilot@example.com,Urgent Sync,2026-11-20 17:43:09,2026-11-20 17:53:10,dry_run,SIMULATED,
+REM-001,CNT-001,alice.morgan@example.com,Sprint Review & Architecture Sync,2026-11-20 10:00:00,2026-11-20 17:57:05,dry_run,SIMULATED,
+REM-002,CNT-002,brian.patel@example.com,Q4 Cloud Infrastructure Invoice Due,2026-11-20 11:30:00,2026-11-20 17:57:05,dry_run,SIMULATED,
+REM-003,CNT-003,catherine.zhao@example.com,Keynote: Modern Data Pipelines and AI,2026-11-20 14:00:00,2026-11-20 17:57:06,dry_run,SIMULATED,
